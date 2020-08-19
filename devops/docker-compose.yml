@@ -1,0 +1,23 @@
+version: "3.7"
+services:
+    jupyter:
+      image: lyamadadocker/monitor-fiis:latest
+      container_name: monitor-fiis
+      volumes:
+        - ./volume/notebooks:/home/jovyan/work/notebooks
+        - ./volume/data:/home/jovyan/work/data
+      restart: always
+      ports:
+        - 8888:8888
+      networks:
+        - internal
+
+
+networks:
+  internal:
+    name: jupyterNetwork
+    driver: bridge
+
+
+volumes:
+  notebook_data:
