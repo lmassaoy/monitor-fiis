@@ -1,6 +1,6 @@
 # monitor-fiis
 
-[![monitor-fiis-architecture.png](https://i.postimg.cc/hPkWGwhr/monitor-fiis-architecture.png)](https://postimg.cc/SJftTg62)
+[![monitor-fiis-architecture-1.png](https://i.postimg.cc/Y2DFcdm3/monitor-fiis-architecture-1.png)](https://postimg.cc/8sWcMB4J)
 
 A python data analytics notebook used to identify key metrics and BI insights about Brazilian Real Estate Investment Fund (aka FIIs).
 
