@@ -4,12 +4,12 @@
 
 A python data analytics notebook used to identify key metrics and BI insights about Brazilian Real Estate Investment Fund (aka FIIs).
 
-I really like this segment of investments, which granted me very good dividends along the past two years.
+I really like this segment of investments, which granted me very good dividends over the past two years.
 
-If you intend to do your own analysis about the FIIs' performances, this study project is a very interesting way to start :)
+If you intend to do your own analysis of the FIIs' performances, this study project is a very interesting way to start :)
 
 ## FIIs
-If you want to learn about this type of investiment, check these sites:
+If you want to learn about this type of investment, check these sites:
 - https://www.fundsexplorer.com.br/
 - https://fiis.com.br/
 
