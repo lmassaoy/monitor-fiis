@@ -1,6 +1,6 @@
 # monitor-fiis
 
-[![monitor-fiis-architecture-1.png](https://i.postimg.cc/Y2DFcdm3/monitor-fiis-architecture-1.png)](https://postimg.cc/8sWcMB4J)
+[![monitor-fiis-architecture-2.png](https://i.postimg.cc/T3KV2T0T/monitor-fiis-architecture-2.png)](https://postimg.cc/xXSJtDBZ)
 
 A python data analytics notebook used to identify key metrics and BI insights about Brazilian Real Estate Investment Fund (aka FIIs).
 
@@ -20,3 +20,7 @@ To collect the data we use Python and [bs4](https://pypi.org/project/beautifulso
 ## Data Analysis
 Consuming the result dictionary from the web scrap we create a [Pandas](https://pandas.pydata.org/) (a fast, powerful, flexible and easy to use open source data analysis) dataframe to start the analysis, and with the help of [Altair](https://altair-viz.github.io/index.html) (a declarative statistical visualization library)
 [![Screen-Shot-2020-08-20-at-23-38-30.png](https://i.postimg.cc/4xFmSX35/Screen-Shot-2020-08-20-at-23-38-30.png)](https://postimg.cc/cvwxKywg)
+
+## Automated Jobs
+Analysis scheduled to run automatically, sending reports to users' e-mail address.
+### coming soon!
